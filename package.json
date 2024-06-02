@@ -6,16 +6,29 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "formik": "^2.4.6",
+    "concurrently": "^7.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "Haraka": "^3.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.23.0",
+    "react-hook-form": "^7.51.4",
+    "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "yup": "^1.4.0"
+    "react-share": "^5.1.0",
+    "sendmail": "^1.6.1",
+    "smtp-server": "^3.13.4",
+    "web-vitals": "^2.1.4"
+  },
+  "devServer": {
+    "allowedHosts": "all"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "concurrently --names 'FE,BE' \"npm run start:frontend\" \"npm run start:backend\"",
+    "start:frontend": "react-scripts start",
+    "start:backend": "node server.js",
+    "server": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -37,5 +50,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "options": {
+    "allowedHosts": [
+      "localhost",
+      ".localhost"
+    ],
+    "proxy": "https://localhost:5000/"
   }
 }
