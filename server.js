@@ -26,7 +26,7 @@ console.log('test................');
     
 sendmail({
   from: email,
-  to: 'stephanief_010@outlook.com',
+  to: 'stephaniemfischer@students.abtech.edu',
   subject: 'Test sendmail 2',
   html: message
 }, function(err, reply) {
