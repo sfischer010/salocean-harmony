@@ -1,0 +1,47 @@
+nav{
+ height: 100px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #fff;
+}
+
+.half-circle {
+  width:  100px;
+  height: 60px;
+  border-radius: 0 0 100px 100px;
+  background-color: #012636;
+}
+
+h1 {
+  color: #fff;
+  text-stroke: 1px #001d2e;
+  -webkit-text-stroke: 1px #fff;
+  text-shadow: 0.1em 0.1em 2px #000;
+  font: 1.6em Sans-serif;
+  font-weight: 700;
+}
+
+.content-main{
+ width: 70%;
+}
+
+.text-shadow{
+ text-shadow: #282c34 1px 0 4px;
+}
+
+.App-link {
+  color: #61dafb;
+}
