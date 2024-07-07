@@ -1,0 +1,4 @@
+EMAIL=stephanief0101@gmail.com
+PASSWORD=Telescope0505
+
+"start": "HOST='localhost' react-scripts start"
