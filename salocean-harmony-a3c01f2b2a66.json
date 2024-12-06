@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "salocean-harmony",
+  "private_key_id": "a3c01f2b2a662c47b1082574648d73996f4ec4d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFCLqvmypJDoxV\nJPsfRgi0e654qsDPM4zsyLrEJfZ1Jj4a9bNELJUY+5OtyytxpJ942g5MlPVPXiZO\nTCu4c6vu6cNBIfprakzHycHjppziZwhOcQ1yLA3R3BDBOZvBlHbRVdso4zBG6z1+\n3ojNNKR1SUo5YZT5nJ/KUspes79HRRAlwyn0Nkp85kHMGuLUNWdbUNCnE3rpEJzU\nOm+68cQV+SAKWAt04EqbZoCBjOJrD4NJCr+5p/bCAWiU+fF82c5c7xfEnxCdOvTI\nwmsj8SuW21I35+epaJzF1N+0NChFS0UNZRzozBAInyLCBZkxnwQSOAFG1+N9/B5w\ntw5Ce3tzAgMBAAECggEAA/vrCR2k62jruysDbZH1H2/NdYDVDjuCHXrqP94ZT4Fw\nSbZEeNvtQIiRvLa6JahJAItpikXhd0iK6L654ZcWgmm1T4NYNMTSUaCJlvNUV8Wd\nPDd6qJ+DFgZnoP3rttcsLIvFDIdvf0zxZ40ot1GEWR9xbJtFr7hpiLtHfpu5geo2\npXV1948hEZ3G8V1YFQmEfnvogub2PEwu1ZvsvEFd8SKJUyoxAL+hOGJVkSYA00Yt\nujSEQm4cuKYcYpDxC2o7Bf3wObi8G+0rOVGuK6pFTHifCm5i0JmV5s2oYS0I3yas\nDt4Hedcwt4qAPLmxM7sK5i0lxeusdDxwYVKlVb7/AQKBgQDxNnHGDj0sldfGRqFC\nPpWiwMfkskq0WY4kZcmhO1/6htrJv1OOSS+rM7LgJwyJ1/XnoALmPRnfHl1h3GiG\nMgmGOV6zdY118E0DV4ePcvK92sVe/Qkq6mQdyaTHE3XT6l4IrbbLVPmSKum1GD7z\nZmhYENhnHC0WtrGYXtc2q8zLAQKBgQDRHPPvoV/dlupQSQzHX3L5wszb1G5nVeR0\nB0NPURbR/o6mEi+yiHTnI0WmcS/TavMJFr5qIG5yB97wyuv37NdYSoewU+fxB4sJ\nVcCCwqY3HRyEG3Wx1YKtNaX/zcWQj26QViI6CMM4FQu6P7Mmb8IoRsgXh4jCbay8\nJIsyiM5KcwKBgBouB5EwcHFLXhz2A4CWHFWKyOdIdpU2dxf6ODUYpaUiR9LHwkDa\nLqNNPCfZ9SFs4BKgqk/k587wk8AQVQPjoGcCCQY/Rvg6+ZDYSi1Gk5QJj4xsuDcB\nM5aMESdONGaotEYK3KEa+u9jWvQ9ym9OeRq90U73nuktMP9Ro9gaM2MBAoGBAMmj\n7IkGiCVpb9opBpx9qqWyNM5JYohcZ6WGl141aBboKu9ym/HA6VE0TuY3QJHSEDaU\natp1GWr1sgFo+u8fv2tQutTJo99kkapXuQGd5p9AgA3XWL85jf+tursW1coWtNuT\nYv+pEW3TxXI8GGkY3RTvY+RkefhZv3XQmzUIfDuHAoGBALCZYrUu+2uwpchB6MlL\nRI19BJCt4z3YFTFXiL5N6ZQ5ynGbEOMLY01U4mh0Sla2tq88byTRhACT8GVFM8eT\nRSXD634O3b5c9nb+xKmYNsx1p6uRRnipG75q21HTLQExptGm+/Sa/xLLvimz4rMg\n6z9WajkirUFIxvlv8WUxbt5A\n-----END PRIVATE KEY-----\n",
+  "client_email": "salocean-harmony@salocean-harmony.iam.gserviceaccount.com",
+  "client_id": "111563893168426703500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/salocean-harmony%40salocean-harmony.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
