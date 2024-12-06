@@ -1,3 +1,4 @@
+
 body{
   background-image: url("bg-ocean3.png") !important; 
   -webkit-background-size: cover !important;
@@ -33,6 +34,7 @@ nav{
   background-color: #012636;
 }
 
+
 h1 {
   color: #fff;
   text-stroke: 1px #001d2e;
@@ -41,6 +43,7 @@ h1 {
   font: 1.6em Sans-serif;
   font-weight: 700;
 }
+
 
 .content-main{
  width: 70%;
@@ -52,4 +55,9 @@ h1 {
 
 .App-link {
   color: #61dafb;
+}
+
+#google-map {
+  width: 100%;
+  height: 1024px;
 }
