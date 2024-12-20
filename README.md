@@ -19,7 +19,8 @@ cd salocean-harmony
 
 **Install dependencies:**
 npm install
-Set up Google Earth Engine credentials:
+
+**Set up Google Earth Engine credentials:**
 
 Obtain the Google Earth Engine credentials JSON file from the Google Cloud Console.
 Place the JSON file in the root directory of the project (e.g., earthengine-credentials.json).
